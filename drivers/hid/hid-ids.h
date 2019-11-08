@@ -14,6 +14,8 @@
 #ifndef HID_IDS_H_FILE
 #define HID_IDS_H_FILE
 
+#define USB_VENDOR_ID_1018 0x1018
+
 #define USB_VENDOR_ID_258A		0x258a
 #define USB_DEVICE_ID_258A_6A88		0x6a88
 
